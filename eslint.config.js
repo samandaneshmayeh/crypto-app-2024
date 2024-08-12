@@ -22,6 +22,7 @@ export default [
       react,
       'react-hooks': reactHooks,
       'react-refresh': reactRefresh,
+      'eslint-disable': no-unused-vars
     },
     rules: {
       ...js.configs.recommended.rules,
